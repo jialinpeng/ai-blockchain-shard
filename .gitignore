@@ -32,8 +32,7 @@ go.work.sum
 # .vscode/
 
 # 忽略自动提交脚本
-auto-commit.bat
-auto-commit.sh
+git-auto-commit.sh
 
 # 忽略block-emulator目录
 block-emulator/
