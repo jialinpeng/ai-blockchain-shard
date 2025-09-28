@@ -30,3 +30,15 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+# 忽略自动提交脚本
+auto-commit.sh
+auto-commit.bat
+
+# 忽略block-emulator目录
+block-emulator/
+
+# 忽略其他系统文件
+*.log
+*.tmp
+.DS_Store
